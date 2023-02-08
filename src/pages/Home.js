@@ -1,8 +1,12 @@
 import React from 'react'
 
+
 function Home() {
   return (
-    <div>Home</div>
+    <div>
+        <h1>This is the Homepage page</h1>
+        
+    </div>
   )
 }
 
